@@ -16,7 +16,7 @@ JavaScript programs can be inserted in any place of HTML with the help of the `<
 For instance:
 
 ```html run height=100
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
 
 <body>
